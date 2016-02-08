@@ -1,0 +1,74 @@
+/* style sheet for resume */
+
+img {
+	width: 25%;
+	height: auto;
+	border: 5px solid #032e4f;
+	border-radius: 30px;
+}
+
+body {
+	background-color: #81b5df;
+	font-family: Tahoma;
+}
+
+#image_center {
+	text-align: center;
+}
+
+.links {
+	padding: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	border-radius: 15px;
+	/*background-color: white;*/
+	margin: 3%;
+	border: 2px solid white
+}
+
+#center_links{
+	text-align: center;
+}
+h1 {
+	font-family: Georgia;
+	font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+	/*padding-bottom: 15px;
+	border-bottom: 1px solid black;
+	margin-right: 20%;
+	margin-left: 20%;*/
+}
+
+#name_index {
+	font-size: 35px;
+	font-family: Georgia;
+	font-weight: bold;
+	text-align: center;
+}
+
+.headings {
+	font-family: Georgia;
+	border-top: 1px solid black;
+	padding-top: 10px;
+	margin-right: 20%;
+}
+
+ul {
+	font-size: 14px;
+}
+
+.activities_skills {
+	font-size: 16px;
+}
+
+#bio_heading {
+	font-family: Georgia;
+	font-size: 20px;
+}
+
+#bio {
+	font-family: Tahoma;
+	font-size: 16px;
+	text-align: center;
+}
