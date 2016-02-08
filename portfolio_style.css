@@ -28,6 +28,7 @@ body {
 #center_links{
 	text-align: center;
 }
+
 h1 {
 	font-family: Georgia;
 	font-weight: bold;
@@ -55,13 +56,14 @@ ul {
 	font-size: 16px;
 }
 
-#bio_heading {
-	font-family: Georgia;
-	font-size: 20px;
-}
-
 #bio {
 	font-family: Tahoma;
 	font-size: 16px;
+	text-align: center;
+}
+
+.bottom_links {
+	font-family: Tahoma;
+	font-size: 12px;
 	text-align: center;
 }
